@@ -1,4 +1,4 @@
-var scripts = ["https://cdn.jsdelivr.net/gh/xixky/goindex-theme-acrou@master/dist/js/app.da7f5f3f.js",
+var scripts = ["https://cdn.jsdelivr.net/gh/xixky/goindex-theme-acrou@v1/dist/js/app.da7f5f3f.js",
     "https://cdn.jsdelivr.net/gh/Aicirou/goindex-theme-acrou@v2.0.8/dist/js/chunk-vendors.3c185c97.js"];
 var cdnjs = ["https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.min.js",
     "https://cdn.jsdelivr.net/npm/vue-i18n@8.17.3/dist/vue-i18n.min.js",
